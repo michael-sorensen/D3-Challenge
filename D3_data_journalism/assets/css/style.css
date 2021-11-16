@@ -59,6 +59,10 @@ body {
   font-weight: 600;
 }
 
+h1{
+  text-align:left;
+  font-weight: 600;
+}
 
 .d3-tip {
   background-color: #273E47;
